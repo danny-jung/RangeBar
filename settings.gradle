@@ -1,0 +1,3 @@
+include ':RangeBar'
+include ':sample'
+rootProject.name = "RangeBar"
